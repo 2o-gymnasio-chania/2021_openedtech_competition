@@ -115,7 +115,7 @@
 
 ## Σχέδια μαθήματος/Παραγωγή ενός σχέδιο ανοιχτού εκπαιδευτικού πόρου σύμφωνα με το OER ##
 Στο πλαίσιο του διαγωνισμού αναπτύχθηκε ένα σχέδιο ανοιχτού εκπαιδευτικού πόρου σύμφωνα με το OER. Το σχέδιo είναι διαθέσιμο στο αποθετήριο της ομάδας:
-- [https://github.com/2o-gymnasio-chania/2021_openedtech_competition/OER_canvas/OER_canvas_feedbot.png](https://github.com/2o-gymnasio-chania/2021_openedtech_competition/OER_canvas/OER_canvas_feedbot.png))
+- [https://github.com/2o-gymnasio-chania/2021_openedtech_competition/blob/main/OER_canvas/OER_canvas_feedBot.png](https://github.com/2o-gymnasio-chania/2021_openedtech_competition/blob/main/OER_canvas/OER_canvas_feedBot.png)
 
 ## Άδειες χρήσης, για άδειες λογισμικού και περιεχομένου ##
 Η άδεια χρήση που επιλέχθηκε για το έργο της ομάδας είναι η [GNU General Public License v3.0](https://github.com/2o-gymnasio-chania/2021_openedtech_competition/blob/main/LICENSE).
