@@ -54,7 +54,7 @@
 - [γραμμικός ενεργοποιητής](https://grobotronics.com/solenoid-12v-jf-0826b.html) πηνίου για την μετακίνηση της καταπακτής της τροφής (8€)
 - [ηλεκτρονόμος](https://grobotronics.com/relay-module-4-channel.html) για τον έλεγχο της ηλεκτροβαλβίδας και του γραμμικού ενεργοποιητή (6€)
 - [αισθητήρας υπολογισμού της στάθμης](https://grobotronics.com/liquid-level-sensor.html) του νερού (3€)
-- [φωτοαντιστάσεις](https://grobotronics.com/photo-resistor-ldr-5mm.html) για τον υπολογισμό της στάθμης της τροφής
+- [φωτοαντιστάσεις](https://grobotronics.com/photo-resistor-ldr-5mm.html) για τον υπολογισμό της στάθμης της τροφής (0.4€)
 - [ρομποτικός ελεγκτής Arduino Uno](https://grobotronics.com/arduino-uno-rev3.html) (22€)
 - καλώδια διάφορων ειδών (10€)
 - πλακέτες δοκιμών (10€)
