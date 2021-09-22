@@ -147,7 +147,12 @@
 Στην ιστοσελίδα υπάρχει μια σύντομη παρουσίαση με σχέδια και φωτογραφίες από τη διαδικασία σχεδίασης και κατασκευής του ρομπότ.
 
 ## Σχέδια μαθήματος/Παραγωγή ενός σχέδιο ανοιχτού εκπαιδευτικού πόρου σύμφωνα με το OER ##
-Στο πλαίσιο του διαγωνισμού αναπτύχθηκε ένα σχέδιο ανοιχτού εκπαιδευτικού πόρου σύμφωνα με το OER. Το σχέδιo είναι διαθέσιμο στο αποθετήριο της ομάδας:
+
+<img src="OER_canvas/OER_canvas_feedBot.png" width=50%>
+
+*Σχέδιο ανοιχτού εκπαιδευτικού πόρου σύμφωνα με το OER*
+
+Στο πλαίσιο του διαγωνισμού αναπτύχθηκε ένα [σχέδιο ανοιχτού εκπαιδευτικού πόρου](https://oer.ellak.gr/2018/03/02/oer-canvas-to-protipo-gia-tin-dimiourgia-anichton-ekpedeftikon-poron-ke-sta-ellinika/) - Open Educational Resources (OER). Το σχέδιo είναι διαθέσιμο στο αποθετήριο της ομάδας:
 - [https://github.com/2o-gymnasio-chania/2021_openedtech_competition/blob/main/OER_canvas/OER_canvas_feedBot.png](https://github.com/2o-gymnasio-chania/2021_openedtech_competition/blob/main/OER_canvas/OER_canvas_feedBot.png)
 
 ## Άδειες χρήσης, για άδειες λογισμικού και περιεχομένου ##
