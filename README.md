@@ -4,6 +4,9 @@
 
 Η ομάδα ROBOTEAM του [2ου Γυμνάσιου Χανίων](http://2gym-chanion.chan.sch.gr) συμμετέχει στον 3o Πανελλήνιο Διαγωνισμό Ανοιχτών Τεχνολογιών, σχεδιάζοντας, προγραμματίζοντας και κατασκευάζοντας το πρωτότυπο ρομπότ **FeedBot**. Το FeedBot είναι ένα ρομπότ παροχής τροφής και νερού σε δεσποζόμενα και αδέσποτα ζώα.
 
+Η ιστοσελίδα της ομάδας στο robotics.ellak βρίσκεται στην παρακάτω διεύθυνση:
+[https://openedtech.ellak.gr/robotics2021/2o-gimnasio-chanion-feedbot](https://openedtech.ellak.gr/robotics2021/2o-gimnasio-chanion-feedbot/)
+
 ![Η ομάδα ROBOTEAM και το πρωτότυπο ρομπότ FeedBot](photos/team_1.jpg)
 
 *Η ομάδα ROBOTEAM και το πρωτότυπο ρομπότ FeedBot*
